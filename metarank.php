@@ -154,7 +154,7 @@ $trend = get_post_meta($postID, $trending_key, true);
 
     }
 }
-
+/* still working on this
 
 wp_schedule_event( time(), 60, 'wpb_reset_trending' );
 
@@ -174,7 +174,7 @@ function wpb_reset_trending() {
 }
 
 
-
+*/
 
 
 
